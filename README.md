@@ -28,5 +28,6 @@ Describe any challenges encountered while building the app.
 
 ![](https://i.imgur.com/mgncz1t.gif)
 
+https://i.imgur.com/mgncz1t.gif
 
 I catched too many errors and it took me 5 hours to complete it.
